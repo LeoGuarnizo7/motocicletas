@@ -1,0 +1,310 @@
+﻿TERRITORY,COUNTRY,CITY,CUSTOMERNAME,DATE,VENTA,INVESTMENT
+EMEA,France,Paris,"La Corne D'abondance, Co,",4/1/2003,"$ 30,793",2957.46
+EMEA,France,Paris,Lyon Souveniers,7/1/2003,"$ 20,414",2957.46
+EMEA,Finland,Espoo,Suominen Souveniers,8/1/2003,"$ 25,366",2957.46
+EMEA,France,Nantes,La Rochelle Gifts,12/1/2003,"$ 4,185",2957.46
+NA,USA,Bridgewater,"Gift Depot Inc,",12/1/2003,"$ 3,400",3286.07
+NA,USA,Burbank,"West Coast Collectables Co,",12/1/2003,"$ 8,202",3286.07
+NA,USA,Newark,"Tekni Collectables Inc,",12/1/2003,"$ 2,800",3286.07
+NA,USA,San Francisco,"Mini Wheels Co,",12/1/2003,"$ 19,678",3286.07
+EMEA,Norway,Stavern,Baane Mini Imports,29/1/2003,"$ 47,871",2957.46
+EMEA,Spain,Madrid,Euro Shopping Channel,31/1/2003,"$ 35,095",2957.46
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",7/2/2003,"$ 49,739",3286.07
+NA,USA,Glendale,"Boards & Toys Co,",10/2/2003,"$ 5,125",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,12/2/2003,"$ 34,702",2957.46
+NA,USA,NYC,Muscle Machine Inc,12/2/2003,"$ 52,704",3286.07
+EMEA,Italy,Bergamo,Rovelli Gifts,17/2/2003,"$ 52,284",2957.46
+NA,USA,NYC,"Land of Toys Inc,",24/2/2003,"$ 21,153",3286.07
+Japan,Philippines,Makati City,"Cruz & Sons Co,",3/3/2003,"$ 47,156",2738.39
+NA,USA,NYC,Muscle Machine Inc,6/3/2003,"$ 46,315",3286.07
+NA,USA,Glendale_CT,"Gift Ideas Corp,",9/3/2003,"$ 6,049",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,12/3/2003,"$ 12,768",2957.46
+EMEA,UK,Manchester,"AV Stores, Co,",18/3/2003,"$ 43,445",2957.46
+EMEA,Sweden,Lule,"Volvo Model Replicas, Co",24/3/2003,"$ 5,200",2957.46
+NA,USA,San Francisco,"Mini Wheels Co,",25/3/2003,"$ 17,906",3286.07
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",26/3/2003,"$ 11,087",3286.07
+NA,USA,NYC,"Classic Legends Inc,",4/4/2003,"$ 19,543",3286.07
+EMEA,France,Toulouse,Alpha Cognac,7/4/2003,"$ 10,200",2957.46
+EMEA,Germany,Frankfurt,"Blauer See Auto, Co,",10/4/2003,"$ 21,966",2957.46
+APAC,Australia,North Sydney,"Anna's Decorations, Ltd",11/4/2003,"$ 35,680",2190.71
+EMEA,Austria,Graz,Mini Auto Werke,11/4/2003,"$ 13,460",2957.46
+Japan,Singapore,Singapore,"Dragon Souveniers, Ltd,",16/4/2003,"$ 34,651",2738.39
+EMEA,Spain,Barcelona,Enaco Distributors,21/4/2003,"$ 3,600",2957.46
+EMEA,Austria,Salzburg,Salzburg Collectables,28/4/2003,"$ 35,651",2957.46
+APAC,Australia,Melbourne,"Australian Collectors, Co,",29/4/2003,"$ 43,500",2190.71
+NA,USA,Brickhaven,"Collectables For Less Inc,",9/5/2003,"$ 28,866",3286.07
+EMEA,Norway,Oslo,"Norway Gifts By Mail, Co,",10/5/2003,"$ 31,810",2957.46
+NA,Canada,Montreal,Quebec Home Shopping Network,11/5/2003,"$ 12,160",3286.07
+EMEA,Italy,Bergamo,Rovelli Gifts,11/5/2003,"$ 34,783",2957.46
+NA,USA,Bridgewater,"Gift Depot Inc,",11/5/2003,"$ 22,566",3286.07
+NA,Canada,Vancouver,Canadian Gift Exchange Network,12/5/2003,"$ 31,280",3286.07
+EMEA,France,Nantes,Atelier graphique,20/5/2003,"$ 13,600",2957.46
+APAC,Australia,Melbourne,"Australian Collectors, Co,",21/5/2003,"$ 6,600",2190.71
+NA,USA,Las Vegas,Signal Gift Stores,21/5/2003,"$ 31,985",3286.07
+EMEA,Spain,Madrid,"Corrida Auto Replicas, Ltd",28/5/2003,"$ 52,913",2957.46
+NA,USA,Nashua,"Online Diecast Creations Co,",1/6/2003,"$ 9,980",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,6/6/2003,"$ 15,260",2957.46
+EMEA,Finland,Helsinki,"Toys of Finland, Co,",10/6/2003,"$ 36,923",2957.46
+EMEA,UK,Liverpool,"UK Collectables, Ltd,",10/6/2003,"$ 22,313",2957.46
+APAC,Australia,South Brisbane,"Australian Gift Network, Co",11/6/2003,"$ 18,969",2190.71
+EMEA,Italy,Reggio Emilia,L'ordine Souveniers,11/6/2003,"$ 29,503",2957.46
+EMEA,UK,London,"Stylish Desk Decors, Co,",11/6/2003,"$ 36,213",2957.46
+NA,USA,Brickhaven,"Auto-Moto Classics Inc,",16/6/2003,"$ 7,140",3286.07
+NA,USA,Glendale_CT,"Gift Ideas Corp,",16/6/2003,"$ 19,240",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,27/6/2003,"$ 21,838",2957.46
+EMEA,France,Reims,Reims Collectables,5/7/2003,"$ 15,693",2957.46
+EMEA,Spain,Madrid,CAF Imports,11/7/2003,"$ 31,574",2957.46
+APAC,Australia,Chatswood,"Souveniers And Things Co,",16/7/2003,"$ 23,027",2190.71
+NA,USA,Burlingame,"Technics Stores Inc,",24/7/2003,"$ 34,007",3286.07
+EMEA,France,Marseille,Marseille Mini Autos,5/8/2003,"$ 42,890",2957.46
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",8/8/2003,"$ 48,770",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,10/8/2003,"$ 5,620",2957.46
+EMEA,France,Toulouse,Alpha Cognac,11/8/2003,"$ 34,135",2957.46
+EMEA,Belgium,Charleroi,Royale Belge,13/8/2003,"$ 1,640",2957.46
+NA,USA,Pasadena,"Toys4GrownUps,com",25/8/2003,"$ 47,682",3286.07
+EMEA,Germany,Frankfurt,"Blauer See Auto, Co,",1/9/2003,"$ 8,979",2957.46
+NA,USA,Boston,Diecast Collectables,12/9/2003,"$ 50,767",3286.07
+Japan,Singapore,Singapore,"Dragon Souveniers, Ltd,",19/9/2003,"$ 32,309",2738.39
+EMEA,Finland,Oulu,"Oulu Toy Supplies, Inc,",21/9/2003,"$ 29,715",2957.46
+APAC,Australia,South Brisbane,"Australian Gift Network, Co",25/9/2003,"$ 9,108",2190.71
+EMEA,Spain,Madrid,Euro Shopping Channel,28/9/2003,"$ 39,266",2957.46
+NA,USA,NYC,"Vitachrome Inc,",1/10/2003,"$ 5,950",3286.07
+NA,USA,Philadelphia,"Motor Mint Distributors Inc,",3/10/2003,"$ 19,228",3286.07
+EMEA,France,Reims,Reims Collectables,7/10/2003,"$ 12,500",2957.46
+NA,USA,New Bedford,"Mini Creations Ltd,",8/10/2003,"$ 42,632",3286.07
+EMEA,Norway,Stavern,Baane Mini Imports,10/10/2003,"$ 1,474",2957.46
+NA,USA,San Francisco,"Corporate Gift Ideas Co,",10/10/2003,"$ 43,818",3286.07
+EMEA,Denmark,Aaarhus,Heintze Collectables,17/10/2003,"$ 32,785",2957.46
+NA,USA,San Francisco,"Corporate Gift Ideas Co,",18/10/2003,"$ 27,943",3286.07
+NA,USA,NYC,"Classic Legends Inc,",20/10/2003,"$ 20,724",3286.07
+EMEA,Austria,Graz,Mini Auto Werke,21/10/2003,"$ 24,707",2957.46
+NA,USA,New Bedford,"FunGiftIdeas,com",21/10/2003,"$ 9,124",3286.07
+Japan,Singapore,Singapore,"Dragon Souveniers, Ltd,",22/10/2003,"$ 57,312",2738.39
+EMEA,Sweden,Boras,Scandinavian Gift Ideas,23/10/2003,"$ 44,367",2957.46
+NA,USA,Burlingame,"Technics Stores Inc,",28/10/2003,"$ 55,186",3286.07
+EMEA,Denmark,Kobenhavn,Danish Wholesale Imports,2/11/2003,"$ 46,645",2957.46
+EMEA,Belgium,Charleroi,Royale Belge,4/11/2003,"$ 1,701",2957.46
+APAC,Australia,North Sydney,"Anna's Decorations, Ltd",9/11/2003,"$ 38,076",2190.71
+NA,USA,Los Angeles,"Men 'R' US Retailers, Ltd,",10/11/2003,"$ 20,036",3286.07
+EMEA,France,Lille,Daedalus Designs Imports,11/11/2003,"$ 38,788",2957.46
+NA,USA,Philadelphia,"Classic Gift Ideas, Inc",13/11/2003,"$ 33,328",3286.07
+EMEA,Spain,Sevilla,"Iberia Gift Imports, Corp,",14/11/2003,"$ 42,471",2957.46
+EMEA,UK,London,"Double Decker Gift Stores, Ltd",14/11/2003,"$ 23,167",2957.46
+NA,USA,New Bedford,"Mini Creations Ltd,",14/11/2003,"$ 43,856",3286.07
+EMEA,Norway,Bergen,Herkku Gifts,18/11/2003,"$ 28,424",2957.46
+NA,USA,Pasadena,"Toys4GrownUps,com",18/11/2003,"$ 2,800",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,19/11/2003,"$ 11,002",2957.46
+EMEA,Germany,Koln,"Toms Spezialitten, Ltd",20/11/2003,"$ 25,893",2957.46
+NA,USA,Nashua,"Online Diecast Creations Co,",20/11/2003,"$ 51,153",3286.07
+APAC,Australia,Glen Waverly,"Australian Collectables, Ltd",21/11/2003,"$ 34,024",2190.71
+EMEA,France,Lyon,"Saveley & Henriot, Co,",25/11/2003,"$ 33,696",2957.46
+NA,USA,White Plains,Mini Classics,25/11/2003,"$ 31,391",3286.07
+EMEA,Spain,Barcelona,Enaco Distributors,26/11/2003,"$ 42,327",2957.46
+NA,USA,New Haven,"Super Scale Inc,",26/11/2003,"$ 29,552",3286.07
+Japan,Philippines,Makati City,"Cruz & Sons Co,",27/11/2003,"$ 19,006",2738.39
+EMEA,UK,London,"Stylish Desk Decors, Co,",6/12/2003,"$ 29,732",2957.46
+NA,USA,Brisbane,"Signal Collectibles Ltd,",9/12/2003,"$ 27,599",3286.07
+EMEA,Norway,Bergen,Herkku Gifts,11/12/2003,"$ 46,283",2957.46
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",11/12/2003,"$ 43,939",3286.07
+EMEA,UK,Liverpool,"UK Collectables, Ltd,",6/1/2004,"$ 38,874",1095.36
+APAC,Singapore,Singapore,Handji Gifts& Co,9/1/2004,"$ 36,028",1862.11
+EMEA,Spain,Madrid,"Corrida Auto Replicas, Ltd",11/1/2004,"$ 25,702",1095.36
+EMEA,UK,Cowes,"giftsbymail,co,uk",11/1/2004,"$ 48,716",1095.36
+NA,USA,NYC,Muscle Machine Inc,12/1/2004,"$ 30,639",1643.03
+EMEA,France,Paris,Auto Canal Petit,15/1/2004,"$ 39,050",1095.36
+EMEA,Spain,Madrid,Euro Shopping Channel,16/1/2004,"$ 54,117",1095.36
+EMEA,UK,London,"Double Decker Gift Stores, Ltd",22/1/2004,"$ 8,385",1095.36
+EMEA,Spain,Madrid,"Corrida Auto Replicas, Ltd",26/1/2004,"$ 16,595",1095.36
+NA,USA,Burbank,"West Coast Collectables Co,",29/1/2004,"$ 33,270",1643.03
+EMEA,France,Lyon,"Saveley & Henriot, Co,",1/2/2004,"$ 46,307",1095.36
+EMEA,France,Versailles,"Auto Assoc, & Cie,",2/2/2004,"$ 4,300",1095.36
+EMEA,France,Lyon,"Saveley & Henriot, Co,",3/2/2004,"$ 38,587",1095.36
+NA,Canada,Tsawassen,"Royal Canadian Collectables, Ltd,",4/2/2004,"$ 31,147",1643.03
+APAC,Australia,Glen Waverly,"Australian Collectables, Ltd",7/2/2004,"$ 8,815",1862.11
+NA,USA,Brickhaven,Online Mini Collectables,8/2/2004,"$ 43,862",1643.03
+NA,USA,Allentown,"Diecast Classics Inc,",11/2/2004,"$ 34,658",1643.03
+NA,USA,Burlingame,"Technics Stores Inc,",11/2/2004,"$ 2,905",1643.03
+EMEA,Spain,Madrid,Euro Shopping Channel,12/2/2004,"$ 46,863",1095.36
+EMEA,Belgium,Bruxelles,Petit Auto,18/2/2004,"$ 15,804",1095.36
+NA,USA,San Diego,"Collectable Mini Designs Co,",19/2/2004,"$ 58,104",1643.03
+APAC,Australia,Melbourne,"Australian Collectors, Co,",20/2/2004,"$ 39,115",1862.11
+EMEA,France,Lille,Daedalus Designs Imports,21/2/2004,"$ 17,991",1095.36
+EMEA,Switzerland,Gensve,"Vida Sport, Ltd",22/2/2004,"$ 40,430",1095.36
+NA,USA,San Diego,"Collectable Mini Designs Co,",26/2/2004,"$ 20,424",1643.03
+NA,USA,Philadelphia,"Motor Mint Distributors Inc,",4/3/2004,"$ 6,656",1643.03
+EMEA,Norway,Bergen,Herkku Gifts,9/3/2004,"$ 11,604",1095.36
+EMEA,Sweden,Lule,"Volvo Model Replicas, Co",11/3/2004,"$ 13,460",1095.36
+NA,USA,NYC,"Microscale Inc,",11/3/2004,"$ 26,507",1643.03
+EMEA,UK,London,"Stylish Desk Decors, Co,",12/3/2004,"$ 12,365",1095.36
+NA,USA,Brickhaven,"Auto-Moto Classics Inc,",12/3/2004,"$ 11,469",1643.03
+EMEA,Germany,Frankfurt,"Blauer See Auto, Co,",15/3/2004,"$ 28,286",1095.36
+EMEA,Spain,Madrid,CAF Imports,19/3/2004,"$ 9,100",1095.36
+EMEA,UK,Cowes,"giftsbymail,co,uk",20/3/2004,"$ 24,444",1095.36
+NA,USA,Newark,"Tekni Collectables Inc,",29/3/2004,"$ 8,734",1643.03
+APAC,Singapore,Singapore,Handji Gifts& Co,2/4/2004,"$ 20,781",1862.11
+NA,USA,New Haven,"Super Scale Inc,",5/4/2004,"$ 28,836",1643.03
+EMEA,France,Strasbourg,Mini Caravy,6/4/2004,"$ 4,102",1095.36
+Japan,Singapore,Singapore,"Dragon Souveniers, Ltd,",8/4/2004,"$ 2,800",2190.71
+NA,USA,Nashua,"Online Diecast Creations Co,",11/4/2004,"$ 40,349",1643.03
+NA,USA,New Bedford,"FunGiftIdeas,com",11/4/2004,"$ 40,485",1643.03
+NA,USA,Glendale_CT,"Gift Ideas Corp,",12/4/2004,"$ 27,410",1643.03
+EMEA,France,Strasbourg,Mini Caravy,13/4/2004,"$ 32,956",1095.36
+Japan,Japan,Osaka,"Osaka Souveniers Co,",13/4/2004,"$ 11,500",2190.71
+NA,USA,NYC,"Microscale Inc,",20/4/2004,"$ 1,702",1643.03
+NA,USA,Boston,Diecast Collectables,26/4/2004,"$ 5,690",1643.03
+EMEA,Spain,Madrid,Euro Shopping Channel,29/4/2004,"$ 25,011",1095.36
+NA,USA,NYC,"Vitachrome Inc,",4/5/2004,"$ 19,932",1643.03
+EMEA,Finland,Espoo,Suominen Souveniers,5/5/2004,"$ 19,536",1095.36
+EMEA,Spain,Madrid,Euro Shopping Channel,5/5/2004,"$ 31,727",1095.36
+EMEA,Germany,Frankfurt,"Blauer See Auto, Co,",11/5/2004,"$ 7,703",1095.36
+EMEA,Norway,Stavern,Baane Mini Imports,11/5/2004,"$ 28,999",1095.36
+NA,USA,NYC,"Vitachrome Inc,",11/5/2004,"$ 41,572",1643.03
+NA,USA,Newark,"Tekni Collectables Inc,",18/5/2004,"$ 17,669",1643.03
+EMEA,France,Paris,Auto Canal Petit,26/5/2004,"$ 23,955",1095.36
+EMEA,Italy,Reggio Emilia,L'ordine Souveniers,7/6/2004,"$ 42,588",1095.36
+NA,USA,Las Vegas,Signal Gift Stores,8/6/2004,"$ 27,723",1643.03
+EMEA,Spain,Sevilla,"Iberia Gift Imports, Corp,",10/6/2004,"$ 3,214",1095.36
+NA,USA,San Jose,The Sharp Gifts Warehouse,14/6/2004,"$ 16,139",1643.03
+Japan,Japan,Minato-ku,"Tokyo Collectables, Ltd",15/6/2004,"$ 17,525",2190.71
+APAC,Singapore,Singapore,Handji Gifts& Co,15/6/2004,"$ 37,450",1862.11
+NA,Canada,Montreal,Quebec Home Shopping Network,17/6/2004,"$ 22,975",1643.03
+EMEA,Spain,Madrid,Euro Shopping Channel,24/6/2004,"$ 47,560",1095.36
+NA,USA,Bridgewater,"Gift Depot Inc,",28/6/2004,"$ 33,218",1643.03
+NA,USA,Boston,"Gifts4AllAges,com",30/6/2004,"$ 19,168",1643.03
+NA,USA,NYC,"Land of Toys Inc,",5/7/2004,"$ 40,308",1643.03
+NA,USA,NYC,Muscle Machine Inc,7/7/2004,"$ 22,110",1643.03
+NA,USA,Brickhaven,"Auto-Moto Classics Inc,",9/7/2004,"$ 6,996",1643.03
+EMEA,Spain,Madrid,Euro Shopping Channel,12/7/2004,"$ 24,866",1095.36
+EMEA,Austria,Salzburg,Salzburg Collectables,16/7/2004,"$ 6,672",1095.36
+APAC,Australia,Chatswood,"Souveniers And Things Co,",19/7/2004,"$ 33,522",1862.11
+NA,USA,Allentown,"Diecast Classics Inc,",20/7/2004,"$ 17,976",1643.03
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",20/7/2004,"$ 32,765",1643.03
+EMEA,Belgium,Bruxelles,Petit Auto,21/7/2004,"$ 44,370",1095.36
+NA,USA,Brickhaven,"Collectables For Less Inc,",21/7/2004,"$ 12,500",1643.03
+EMEA,France,Nantes,La Rochelle Gifts,23/7/2004,"$ 45,642",1095.36
+NA,USA,Cambridge,"Cambridge Collectables Co,",5/8/2004,"$ 13,406",1643.03
+EMEA,Denmark,Kobenhavn,Danish Wholesale Imports,6/8/2004,"$ 4,772",1095.36
+EMEA,Sweden,Boras,Scandinavian Gift Ideas,9/8/2004,"$ 43,691",1095.36
+NA,USA,NYC,"Land of Toys Inc,",9/8/2004,"$ 31,813",1643.03
+EMEA,Italy,Torino,"Amica Models & Co,",17/8/2004,"$ 45,548",1095.36
+NA,USA,Allentown,"Diecast Classics Inc,",19/8/2004,"$ 37,659",1643.03
+NA,Canada,Tsawassen,"Royal Canadian Collectables, Ltd,",20/8/2004,"$ 40,361",1643.03
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",20/8/2004,"$ 39,943",1643.03
+EMEA,Norway,Oslo,"Norway Gifts By Mail, Co,",21/8/2004,"$ 32,733",1095.36
+NA,USA,Cambridge,"Marta's Replicas Co,",27/8/2004,"$ 37,051",1643.03
+EMEA,France,Paris,"La Corne D'abondance, Co,",28/8/2004,"$ 2,166",1095.36
+EMEA,Switzerland,Gensve,"Vida Sport, Ltd",30/8/2004,"$ 52,910",1095.36
+NA,USA,Los Angeles,"Men 'R' US Retailers, Ltd,",1/9/2004,"$ 22,111",1643.03
+EMEA,Denmark,Kobenhavn,Danish Wholesale Imports,4/9/2004,"$ 24,455",1095.36
+EMEA,Spain,Madrid,Euro Shopping Channel,8/9/2004,"$ 19,849",1095.36
+EMEA,Italy,Torino,"Amica Models & Co,",9/9/2004,"$ 27,108",1095.36
+EMEA,Sweden,Lule,"Volvo Model Replicas, Co",11/9/2004,"$ 19,306",1095.36
+EMEA,France,Paris,Lyon Souveniers,12/9/2004,"$ 24,185",1095.36
+EMEA,Germany,Munich,"Bavarian Collectables Imports, Co,",15/9/2004,"$ 32,713",1095.36
+EMEA,Ireland,Dublin,"Clover Collections, Co,",16/9/2004,"$ 17,383",1095.36
+EMEA,France,Nantes,Atelier graphique,27/9/2004,"$ 5,280",1095.36
+EMEA,Finland,Helsinki,"Toys of Finland, Co,",30/9/2004,"$ 32,526",1095.36
+NA,USA,Brisbane,"Signal Collectibles Ltd,",2/10/2004,"$ 11,865",1643.03
+NA,USA,Cambridge,"Cambridge Collectables Co,",3/10/2004,"$ 17,780",1643.03
+NA,USA,Boston,"Gifts4AllAges,com",9/10/2004,"$ 14,256",1643.03
+NA,USA,Brickhaven,Online Mini Collectables,9/10/2004,"$ 4,500",1643.03
+EMEA,Denmark,Kobenhavn,Danish Wholesale Imports,11/10/2004,"$ 22,044",1095.36
+EMEA,Spain,Madrid,Euro Shopping Channel,12/10/2004,"$ 40,851",1095.36
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",12/10/2004,"$ 32,310",1643.03
+NA,USA,Cambridge,"Marta's Replicas Co,",13/10/2004,"$ 41,549",1643.03
+EMEA,UK,Manchester,"AV Stores, Co,",14/10/2004,"$ 48,435",1095.36
+NA,USA,Philadelphia,"Classic Gift Ideas, Inc",14/10/2004,"$ 23,478",1643.03
+EMEA,Norway,Stavern,Baane Mini Imports,15/10/2004,"$ 16,886",1095.36
+NA,USA,White Plains,Mini Classics,15/10/2004,"$ 42,208",1643.03
+EMEA,Germany,Koln,"Toms Spezialitten, Ltd",16/10/2004,"$ 53,136",1095.36
+EMEA,Spain,Madrid,Euro Shopping Channel,16/10/2004,"$ 33,143",1095.36
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",21/10/2004,"$ 47,599",1643.03
+NA,Canada,Vancouver,Canadian Gift Exchange Network,22/10/2004,"$ 29,262",1643.03
+EMEA,Denmark,Aaarhus,Heintze Collectables,22/10/2004,"$ 44,689",1095.36
+EMEA,France,Nantes,La Rochelle Gifts,29/10/2004,"$ 20,003",1095.36
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",3/11/2004,"$ 40,061",1643.03
+NA,USA,San Jose,The Sharp Gifts Warehouse,5/11/2004,"$ 42,570",1643.03
+EMEA,France,Versailles,"Auto Assoc, & Cie,",10/11/2004,"$ 49,069",1095.36
+NA,USA,NYC,"Land of Toys Inc,",15/11/2004,"$ 45,534",1643.03
+Japan,Philippines,Makati City,"Cruz & Sons Co,",16/11/2004,"$ 14,132",2190.71
+EMEA,UK,Manchester,"AV Stores, Co,",17/11/2004,"$ 44,911",1095.36
+NA,USA,Philadelphia,"Motor Mint Distributors Inc,",17/11/2004,"$ 37,208",1643.03
+NA,USA,San Francisco,"Mini Wheels Co,",18/11/2004,"$ 22,679",1643.03
+EMEA,Sweden,Lule,"Volvo Model Replicas, Co",19/11/2004,"$ 20,374",1095.36
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",19/11/2004,"$ 8,061",1643.03
+EMEA,France,Paris,"La Corne D'abondance, Co,",20/11/2004,"$ 41,003",1095.36
+NA,USA,NYC,"Classic Legends Inc,",21/11/2004,"$ 23,833",1643.03
+EMEA,Belgium,Charleroi,Royale Belge,22/11/2004,"$ 10,924",1095.36
+Japan,Japan,Minato-ku,"Tokyo Collectables, Ltd",23/11/2004,"$ 49,162",2190.71
+APAC,Australia,Melbourne,"Australian Collectors, Co,",24/11/2004,"$ 33,942",1862.11
+EMEA,Austria,Salzburg,Salzburg Collectables,24/11/2004,"$ 33,434",1095.36
+EMEA,France,Reims,Reims Collectables,24/11/2004,"$ 15,512",1095.36
+EMEA,Spain,Barcelona,Enaco Distributors,24/11/2004,"$ 28,051",1095.36
+EMEA,France,Marseille,Marseille Mini Autos,25/11/2004,"$ 15,958",1095.36
+EMEA,France,Nantes,Atelier graphique,25/11/2004,"$ 2,322",1095.36
+APAC,Australia,Melbourne,"Australian Collectors, Co,",29/11/2004,"$ 37,649",1862.11
+NA,USA,Las Vegas,Signal Gift Stores,29/11/2004,"$ 13,130",1643.03
+Japan,Japan,Osaka,"Osaka Souveniers Co,",1/12/2004,"$ 44,135",2190.71
+EMEA,Ireland,Dublin,"Clover Collections, Co,",2/12/2004,"$ 25,886",1095.36
+EMEA,Finland,Oulu,"Oulu Toy Supplies, Inc,",4/12/2004,"$ 13,857",1095.36
+EMEA,Italy,Bergamo,Rovelli Gifts,11/12/2004,"$ 40,089",1095.36
+EMEA,France,Reims,Reims Collectables,15/12/2004,"$ 24,103",1095.36
+APAC,Australia,Chatswood,"Souveniers And Things Co,",17/12/2004,"$ 34,756",1862.11
+EMEA,Spain,Madrid,Euro Shopping Channel,3/1/2005,"$ 102,708",4381.43
+NA,USA,San Jose,The Sharp Gifts Warehouse,4/1/2005,"$ 59,476",3286.07
+NA,Canada,Montreal,Quebec Home Shopping Network,5/1/2005,"$ 52,526",3286.07
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",19/1/2005,"$ 14,482",3286.07
+APAC,Australia,North Sydney,"Anna's Decorations, Ltd",20/1/2005,"$ 21,965",2957.46
+NA,USA,Brickhaven,"Collectables For Less Inc,",20/1/2005,"$ 25,839",3286.07
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",23/1/2005,"$ 30,845",3286.07
+Japan,Japan,Minato-ku,"Tokyo Collectables, Ltd",26/1/2005,"$ 30,208",1643.03
+EMEA,Finland,Oulu,"Oulu Toy Supplies, Inc,",31/1/2005,"$ 47,129",4381.43
+APAC,Australia,South Brisbane,"Australian Gift Network, Co",2/2/2005,"$ 36,576",2957.46
+Japan,Singapore,Singapore,"Dragon Souveniers, Ltd,",3/2/2005,"$ 8,360",1643.03
+EMEA,Spain,Madrid,Euro Shopping Channel,16/2/2005,"$ 34,519",4381.43
+NA,USA,San Francisco,"Corporate Gift Ideas Co,",17/2/2005,"$ 27,364",3286.07
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",17/2/2005,"$ 42,044",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,22/2/2005,"$ 33,398",4381.43
+NA,USA,San Francisco,"Corporate Gift Ideas Co,",23/2/2005,"$ 14,782",3286.07
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",28/2/2005,"$ 5,107",3286.07
+EMEA,France,Nantes,La Rochelle Gifts,2/3/2005,"$ 97,154",4381.43
+EMEA,Sweden,Boras,Scandinavian Gift Ideas,3/3/2005,"$ 55,668",4381.43
+NA,USA,New Bedford,"FunGiftIdeas,com",3/3/2005,"$ 54,938",3286.07
+NA,USA,Newark,"Tekni Collectables Inc,",4/3/2005,"$ 92,794",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,5/3/2005,"$ 79,452",4381.43
+EMEA,Spain,Madrid,Euro Shopping Channel,15/3/2005,"$ 17,012",4381.43
+EMEA,France,Paris,Lyon Souveniers,17/3/2005,"$ 14,577",4381.43
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",23/3/2005,"$ 26,381",3286.07
+EMEA,France,Toulouse,Alpha Cognac,28/3/2005,"$ 14,552",4381.43
+EMEA,France,Reims,Reims Collectables,30/3/2005,"$ 48,747",4381.43
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",3/4/2005,"$ 98,132",3286.07
+EMEA,France,Strasbourg,Mini Caravy,14/4/2005,"$ 28,750",4381.43
+EMEA,Denmark,Kobenhavn,Danish Wholesale Imports,15/4/2005,"$ 17,400",4381.43
+Japan,Japan,Minato-ku,"Tokyo Collectables, Ltd",22/4/2005,$ 555,1643.03
+NA,USA,San Jose,The Sharp Gifts Warehouse,22/4/2005,"$ 47,943",3286.07
+APAC,Singapore,Singapore,Handji Gifts& Co,23/4/2005,"$ 2,430",2957.46
+NA,USA,Burlingame,"Technics Stores Inc,",1/5/2005,"$ 20,800",3286.07
+NA,USA,Bridgewater,"Gift Depot Inc,",5/5/2005,"$ 39,728",3286.07
+EMEA,Spain,Madrid,Euro Shopping Channel,13/5/2005,"$ 24,496",4381.43
+EMEA,Austria,Salzburg,Salzburg Collectables,17/5/2005,"$ 46,496",4381.43
+APAC,Australia,Chatswood,"Souveniers And Things Co,",29/5/2005,"$ 41,885",2957.46
+NA,USA,San Rafael,"Mini Gifts Distributors Ltd,",29/5/2005,"$ 5,340",3286.07
+EMEA,Belgium,Bruxelles,Petit Auto,30/5/2005,"$ 8,420",4381.43
+NA,USA,Allentown,"Diecast Classics Inc,",30/5/2005,"$ 6,196",3286.07
+EMEA,France,Nantes,La Rochelle Gifts,31/5/2005,"$ 35,552",4381.43
+EMEA,Spain,Madrid,Euro Shopping Channel,31/5/2005,"$ 23,270",4381.43
+EMEA,Finland,Espoo,Suominen Souveniers,1/6/2005,"$ 87,678",4381.43
+EMEA,France,Marseille,Marseille Mini Autos,1/6/2005,"$ 4,608",4381.43
+NA,USA,Boston,"Gifts4AllAges,com",5/6/2005,"$ 88,294",3286.07
+NA,USA,New Bedford,"Mini Creations Ltd,",1/7/2005,"$ 18,420",3286.07
+EMEA,France,Paris,Auto Canal Petit,4/7/2005,"$ 25,544",4381.43
+NA,USA,Glendale,"Boards & Toys Co,",2/8/2005,"$ 7,000",3286.07
+EMEA,UK,Liverpool,"UK Collectables, Ltd,",4/8/2005,"$ 64,080",4381.43
+EMEA,Finland,Helsinki,"Toys of Finland, Co,",2/9/2005,"$ 39,480",4381.43
+APAC,Australia,North Sydney,"Anna's Decorations, Ltd",3/9/2005,"$ 51,146",2957.46
+APAC,Australia,Glen Waverly,"Australian Collectables, Ltd",5/9/2005,"$ 26,592",2957.46
+EMEA,Belgium,Charleroi,Royale Belge,1/10/2005,"$ 23,400",4381.43
+EMEA,Spain,Madrid,Euro Shopping Channel,2/10/2005,"$ 85,258",4381.43
+EMEA,Austria,Graz,Mini Auto Werke,3/10/2005,"$ 16,686",4381.43
+EMEA,Italy,Reggio Emilia,L'ordine Souveniers,5/10/2005,"$ 75,032",4381.43
+NA,USA,Pasadena,"Toys4GrownUps,com",1/12/2005,"$ 71,466",3286.07
